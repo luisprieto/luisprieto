@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Luis, a software engineer living in Barcelona.
+
+### 📫 How to reach me:
+- On Twitter [@Prieto_Luis](https://twitter.com/Prieto_Luis)
+- By email [prieto.fdz@gmail.com](mailto:prieto.fdz@gmail.com)
+- On [LinkedIn](https://www.linkedin.com/in/luisprietofernandez/)
+
 <!--
 **luisprieto/luisprieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
